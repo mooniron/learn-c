@@ -1,0 +1,16 @@
+
+exercise 6-1-1:
+/*  ex6-1 test pattern  */
+
+char int
+/*char "int"
+char int
+int "int /*char */
+
+
+char int
+"char /*int*/
+char int
+int "int /*char */
+
+exercise 6-2
